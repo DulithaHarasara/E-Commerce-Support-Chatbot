@@ -1,0 +1,381 @@
+{
+  "products": [
+    {
+      "id": "prod-0001",
+      "sku": "PH-APL-14P-256-BK",
+      "name": "AsterPhone Pro 14 Plus",
+      "category": "smartphone",
+      "brand": "Aster",
+      "model": "Pro 14 Plus",
+      "price": 1199.00,
+      "currency": "USD",
+      "release_date": "2024-09-15",
+      "warranty_months": 24,
+      "rating": 4.6,
+      "reviews_count": 1245,
+      "tags": ["flagship", "5g", "oled", "fast-charge"],
+      "images": ["https://example.com/images/prod-0001-1.jpg"],
+      "variants": [
+        { "color": "Midnight Black", "storage_gb": 256 },
+        { "color": "Starlight Silver", "storage_gb": 512 }
+      ],
+      "specs": {
+        "os": "AOS 14",
+        "display": { "size_in": 6.7, "type": "LTPO OLED", "resolution": "3200x1440", "refresh_hz": 120 },
+        "processor": { "name": "Aster A18", "cores": 8, "frequency_ghz": 3.2 },
+        "gpu": "Aster G-Prime",
+        "ram_gb": 12,
+        "storage_options_gb": [256, 512],
+        "rear_camera_mp": [50, 12, 12],
+        "front_camera_mp": 12,
+        "battery_mah": 4800,
+        "charging": { "wired_w": 65, "wireless_w": 30 },
+        "connectivity": ["5G", "Wi-Fi 6E", "Bluetooth 5.3", "NFC", "USB-C"],
+        "sensors": ["Fingerprint (under display)", "Gyro", "Proximity", "Compass"],
+        "water_resistance": "IP68",
+        "weight_g": 198,
+        "dimensions_mm": "160.2 x 74.5 x 7.9"
+      },
+      "stock": {
+        "total": 520,
+        "warehouses": [
+          { "id": "wh-lk-1", "location": "Colombo", "quantity": 120 },
+          { "id": "wh-sg-1", "location": "Singapore", "quantity": 200 },
+          { "id": "wh-us-1", "location": "Los Angeles", "quantity": 200 }
+        ]
+      }
+    },
+    {
+      "id": "prod-0002",
+      "sku": "PH-VER-12-128-BL",
+      "name": "Verto X12",
+      "category": "smartphone",
+      "brand": "Verto",
+      "model": "X12",
+      "price": 699.00,
+      "currency": "USD",
+      "release_date": "2023-11-05",
+      "warranty_months": 12,
+      "rating": 4.3,
+      "reviews_count": 860,
+      "tags": ["mid-range", "fast-charge"],
+      "images": ["https://example.com/images/prod-0002-1.jpg"],
+      "variants": [
+        { "color": "Ocean Blue", "storage_gb": 128 },
+        { "color": "Graphite", "storage_gb": 256 }
+      ],
+      "specs": {
+        "os": "Android 13",
+        "display": { "size_in": 6.5, "type": "AMOLED", "resolution": "2400x1080", "refresh_hz": 90 },
+        "processor": { "name": "Snapdragon 7 Gen 1", "cores": 8 },
+        "gpu": "Adreno",
+        "ram_gb": 8,
+        "storage_options_gb": [128, 256],
+        "rear_camera_mp": [64, 8, 2],
+        "front_camera_mp": 16,
+        "battery_mah": 4200,
+        "charging": { "wired_w": 33, "wireless_w": 0 },
+        "connectivity": ["5G", "Wi-Fi 6", "Bluetooth 5.2", "NFC"],
+        "sensors": ["Fingerprint (side)", "Accelerometer"],
+        "water_resistance": "IP54",
+        "weight_g": 185,
+        "dimensions_mm": "158.9 x 73.6 x 8.2"
+      },
+      "stock": {
+        "total": 1420,
+        "warehouses": [
+          { "id": "wh-lk-1", "location": "Colombo", "quantity": 420 },
+          { "id": "wh-in-1", "location": "Mumbai", "quantity": 500 },
+          { "id": "wh-uk-1", "location": "London", "quantity": 500 }
+        ]
+      }
+    },
+    {
+      "id": "prod-0003",
+      "sku": "LP-DELL-XPS13-16-512",
+      "name": "Dell XPS 13 Plus (2025)",
+      "category": "laptop",
+      "brand": "Dell",
+      "model": "XPS 13 Plus",
+      "price": 1599.00,
+      "currency": "USD",
+      "release_date": "2025-02-10",
+      "warranty_months": 12,
+      "rating": 4.7,
+      "reviews_count": 940,
+      "tags": ["ultrabook", "lightweight", "touchscreen"],
+      "images": ["https://example.com/images/prod-0003-1.jpg"],
+      "variants": [
+        { "color": "Silver", "ram_gb": 16, "storage_gb": 512 },
+        { "color": "Black", "ram_gb": 32, "storage_gb": 1024 }
+      ],
+      "specs": {
+        "os": "Windows 11 Pro",
+        "display": { "size_in": 13.4, "type": "OLED", "resolution": "2880x1800", "touch": true, "refresh_hz": 60 },
+        "processor": { "name": "Intel Core i7-1365U", "cores": 10 },
+        "gpu": "Intel Iris Xe",
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "battery_mah": 6000,
+        "battery_life_hours": 12,
+        "ports": ["Thunderbolt 4 x2", "USB-C", "3.5mm audio"],
+        "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3"],
+        "weight_kg": 1.22,
+        "dimensions_mm": "295 x 198 x 11.5"
+      },
+      "stock": {
+        "total": 210,
+        "warehouses": [
+          { "id": "wh-us-1", "location": "Los Angeles", "quantity": 60 },
+          { "id": "wh-de-1", "location": "Frankfurt", "quantity": 80 },
+          { "id": "wh-lk-1", "location": "Colombo", "quantity": 70 }
+        ]
+      }
+    },
+    {
+      "id": "prod-0004",
+      "sku": "LP-APL-MBP14-16-512",
+      "name": "MacBook Pro 14 (M3)",
+      "category": "laptop",
+      "brand": "Apple",
+      "model": "MacBook Pro 14 M3",
+      "price": 1999.00,
+      "currency": "USD",
+      "release_date": "2024-11-02",
+      "warranty_months": 12,
+      "rating": 4.9,
+      "reviews_count": 3210,
+      "tags": ["macOS", "m-series", "creative"],
+      "images": ["https://example.com/images/prod-0004-1.jpg"],
+      "variants": [
+        { "color": "Space Gray", "ram_gb": 16, "storage_gb": 512 },
+        { "color": "Silver", "ram_gb": 32, "storage_gb": 1024 }
+      ],
+      "specs": {
+        "os": "macOS Ventura",
+        "display": { "size_in": 14.2, "type": "Liquid Retina XDR", "resolution": "3024x1964", "pro_motion_hz": 120 },
+        "processor": { "name": "Apple M3 Pro", "neurons": 20000 },
+        "gpu": "Integrated M3 Pro GPU (12-core)",
+        "ram_gb": 16,
+        "storage_gb": 512,
+        "battery_life_hours": 17,
+        "ports": ["MagSafe 3", "HDMI", "SDXC", "Thunderbolt 4 x3"],
+        "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3"],
+        "weight_kg": 1.6,
+        "dimensions_mm": "312 x 221 x 15.5"
+      },
+      "stock": {
+        "total": 150,
+        "warehouses": [
+          { "id": "wh-us-1", "location": "Los Angeles", "quantity": 50 },
+          { "id": "wh-lk-1", "location": "Colombo", "quantity": 30 },
+          { "id": "wh-sg-1", "location": "Singapore", "quantity": 70 }
+        ]
+      }
+    },
+    {
+      "id": "prod-0005",
+      "sku": "TB-SAM-GALAXYT10-128",
+      "name": "Galaxy Tab T10",
+      "category": "tablet",
+      "brand": "Samsung",
+      "model": "Galaxy Tab T10",
+      "price": 449.00,
+      "currency": "USD",
+      "release_date": "2024-06-20",
+      "warranty_months": 12,
+      "rating": 4.2,
+      "reviews_count": 410,
+      "tags": ["tablet", "multimedia", "stylus-ready"],
+      "images": ["https://example.com/images/prod-0005-1.jpg"],
+      "variants": [
+        { "color": "Grey", "storage_gb": 128 },
+        { "color": "Bronze", "storage_gb": 256 }
+      ],
+      "specs": {
+        "os": "Android 14",
+        "display": { "size_in": 11.0, "type": "LCD", "resolution": "2560x1600", "refresh_hz": 90 },
+        "processor": { "name": "Exynos 1380", "cores": 8 },
+        "ram_gb": 8,
+        "storage_options_gb": [128, 256],
+        "rear_camera_mp": 13,
+        "front_camera_mp": 8,
+        "battery_mah": 8000,
+        "connectivity": ["Wi-Fi 6", "Bluetooth 5.2"],
+        "weight_g": 520,
+        "dimensions_mm": "254 x 165 x 6.5"
+      },
+      "stock": {
+        "total": 760,
+        "warehouses": [
+          { "id": "wh-in-1", "location": "Mumbai", "quantity": 300 },
+          { "id": "wh-lk-1", "location": "Colombo", "quantity": 200 },
+          { "id": "wh-au-1", "location": "Sydney", "quantity": 260 }
+        ]
+      }
+    },
+    {
+      "id": "prod-0006",
+      "sku": "ACC-SND-BEATS-XB",
+      "name": "PulseBeats Wireless Earbuds",
+      "category": "accessories",
+      "brand": "Pulse",
+      "model": "Beats-XB",
+      "price": 129.99,
+      "currency": "USD",
+      "release_date": "2022-05-12",
+      "warranty_months": 12,
+      "rating": 4.1,
+      "reviews_count": 2100,
+      "tags": ["earbuds", "noise-canceling", "wireless"],
+      "images": ["https://example.com/images/prod-0006-1.jpg"],
+      "variants": [
+        { "color": "Black" },
+        { "color": "White" }
+      ],
+      "specs": {
+        "connectivity": "Bluetooth 5.2",
+        "battery_case_mah": 520,
+        "battery_earbud_hours": 8,
+        "charging_w": 5,
+        "water_resistance": "IPX4",
+        "features": ["ANC", "Ambient mode", "Quick pairing", "Voice assistant support"]
+      },
+      "stock": {
+        "total": 3450,
+        "warehouses": [
+          { "id": "wh-lk-1", "location": "Colombo", "quantity": 1250 },
+          { "id": "wh-sg-1", "location": "Singapore", "quantity": 1200 },
+          { "id": "wh-us-1", "location": "Los Angeles", "quantity": 1000 }
+        ]
+      }
+    },
+    {
+      "id": "prod-0007",
+      "sku": "PH-ONE-ECON-64-WH",
+      "name": "OriPhone Mini",
+      "category": "smartphone",
+      "brand": "Ori",
+      "model": "Mini",
+      "price": 199.00,
+      "currency": "USD",
+      "release_date": "2023-03-18",
+      "warranty_months": 12,
+      "rating": 3.9,
+      "reviews_count": 320,
+      "tags": ["budget", "compact"],
+      "images": ["https://example.com/images/prod-0007-1.jpg"],
+      "variants": [
+        { "color": "White", "storage_gb": 64 },
+        { "color": "Coral", "storage_gb": 128 }
+      ],
+      "specs": {
+        "os": "Android 12 (Go)",
+        "display": { "size_in": 5.5, "type": "LCD", "resolution": "1480x720" },
+        "processor": "UniSoc T616",
+        "ram_gb": 4,
+        "storage_options_gb": [64, 128],
+        "rear_camera_mp": [13],
+        "front_camera_mp": 5,
+        "battery_mah": 3000,
+        "charging": { "wired_w": 10 },
+        "connectivity": ["4G LTE", "Wi-Fi 5", "Bluetooth 5.0"],
+        "weight_g": 150,
+        "dimensions_mm": "138 x 65 x 8.9"
+      },
+      "stock": {
+        "total": 5000,
+        "warehouses": [
+          { "id": "wh-in-1", "location": "Mumbai", "quantity": 2500 },
+          { "id": "wh-lk-1", "location": "Colombo", "quantity": 1500 },
+          { "id": "wh-ng-1", "location": "Lagos", "quantity": 1000 }
+        ]
+      }
+    },
+    {
+      "id": "prod-0008",
+      "sku": "LP-HP-ELITEBOOK-16-32-1T",
+      "name": "HP EliteBook 16",
+      "category": "laptop",
+      "brand": "HP",
+      "model": "EliteBook 16 G9",
+      "price": 1799.00,
+      "currency": "USD",
+      "release_date": "2024-03-30",
+      "warranty_months": 36,
+      "rating": 4.4,
+      "reviews_count": 420,
+      "tags": ["business", "16-inch", "durable"],
+      "images": ["https://example.com/images/prod-0008-1.jpg"],
+      "variants": [
+        { "color": "Silver", "ram_gb": 32, "storage_gb": 1024 },
+        { "color": "Black", "ram_gb": 16, "storage_gb": 512 }
+      ],
+      "specs": {
+        "os": "Windows 11 Pro",
+        "display": { "size_in": 16.0, "type": "IPS", "resolution": "2560x1600", "refresh_hz": 60 },
+        "processor": { "name": "Intel Core i9-13900H", "cores": 14 },
+        "gpu": "NVIDIA RTX 4060 (6GB)",
+        "ram_gb": 32,
+        "storage_gb": 1024,
+        "battery_life_hours": 10,
+        "ports": ["Thunderbolt 4", "USB-A 3.2", "HDMI 2.1", "Ethernet"],
+        "connectivity": ["Wi-Fi 6E", "Bluetooth 5.3"],
+        "weight_kg": 1.95,
+        "dimensions_mm": "357 x 245 x 18"
+      },
+      "stock": {
+        "total": 95,
+        "warehouses": [
+          { "id": "wh-de-1", "location": "Frankfurt", "quantity": 40 },
+          { "id": "wh-us-1", "location": "Los Angeles", "quantity": 35 },
+          { "id": "wh-lk-1", "location": "Colombo", "quantity": 20 }
+        ]
+      }
+    },
+    {
+      "id": "prod-0009",
+      "sku": "PH-SON-XZ-5-256-GR",
+      "name": "Sonix XZ5",
+      "category": "smartphone",
+      "brand": "Sonix",
+      "model": "XZ5",
+      "price": 849.00,
+      "currency": "USD",
+      "release_date": "2024-01-22",
+      "warranty_months": 12,
+      "rating": 4.5,
+      "reviews_count": 670,
+      "tags": ["camera", "night-mode"],
+      "images": ["https://example.com/images/prod-0009-1.jpg"],
+      "variants": [
+        { "color": "Graphite", "storage_gb": 256 },
+        { "color": "Amber", "storage_gb": 512 }
+      ],
+      "specs": {
+        "os": "Android 14",
+        "display": { "size_in": 6.6, "type": "OLED", "resolution": "2800x1260", "refresh_hz": 120 },
+        "processor": { "name": "Snapdragon 8 Gen 2", "cores": 8 },
+        "gpu": "Adreno 740",
+        "ram_gb": 12,
+        "storage_options_gb": [256, 512],
+        "rear_camera_mp": [108, 12, 10],
+        "front_camera_mp": 20,
+        "battery_mah": 5000,
+        "charging": { "wired_w": 45, "wireless_w": 15 },
+        "connectivity": ["5G", "Wi-Fi 7", "Bluetooth 5.4", "NFC"],
+        "water_resistance": "IP68",
+        "weight_g": 200,
+        "dimensions_mm": "162 x 75 x 8.1"
+      },
+      "stock": {
+        "total": 680,
+        "warehouses": [
+          { "id": "wh-lk-1", "location": "Colombo", "quantity": 180 },
+          { "id": "wh-us-1", "location": "Los Angeles", "quantity": 200 },
+          { "id": "wh-au-1", "location": "Sydney", "quantity": 300 }
+        ]
+      }
+    }
+  ]
+}
