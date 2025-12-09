@@ -1,0 +1,360 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD-5001",
+      "customer": {
+        "customer_id": "CUST-1001",
+        "customer_name": "Dulitha Harasara"
+      },
+      "products": [
+        {
+          "product_id": "P-SM-0001",
+          "product_name": "Samsung Galaxy S23 Ultra",
+          "quantity": 1
+        },
+        {
+          "product_id": "P-AC-0021",
+          "product_name": "Samsung 45W Fast Charger",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-05",
+      "status": "delivered",
+      "expected_delivery": "2025-01-10"
+    },
+    {
+      "order_id": "ORD-5002",
+      "customer": {
+        "customer_id": "CUST-1002",
+        "customer_name": "Kasun Perera"
+      },
+      "products": [
+        {
+          "product_id": "P-LT-0003",
+          "product_name": "Apple MacBook Air M2",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-06",
+      "status": "shipped",
+      "expected_delivery": "2025-01-12"
+    },
+    {
+      "order_id": "ORD-5003",
+      "customer": {
+        "customer_id": "CUST-1003",
+        "customer_name": "Nimal Silva"
+      },
+      "products": [
+        {
+          "product_id": "P-SM-0002",
+          "product_name": "iPhone 15 Pro Max",
+          "quantity": 1
+        },
+        {
+          "product_id": "P-AC-0032",
+          "product_name": "Apple USB-C Fast Charger",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-06",
+      "status": "processing",
+      "expected_delivery": "2025-01-14"
+    },
+    {
+      "order_id": "ORD-5004",
+      "customer": {
+        "customer_id": "CUST-1004",
+        "customer_name": "Ishara Fernando"
+      },
+      "products": [
+        {
+          "product_id": "P-LT-0004",
+          "product_name": "Dell XPS 13",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-07",
+      "status": "pending",
+      "expected_delivery": "2025-01-15"
+    },
+    {
+      "order_id": "ORD-5005",
+      "customer": {
+        "customer_id": "CUST-1005",
+        "customer_name": "Sajith Kumara"
+      },
+      "products": [
+        {
+          "product_id": "P-HD-0001",
+          "product_name": "Seagate 1TB External Hard Drive",
+          "quantity": 2
+        }
+      ],
+      "order_date": "2025-01-07",
+      "status": "delivered",
+      "expected_delivery": "2025-01-12"
+    },
+    {
+      "order_id": "ORD-5006",
+      "customer": {
+        "customer_id": "CUST-1006",
+        "customer_name": "Thisara Jayawardena"
+      },
+      "products": [
+        {
+          "product_id": "P-SM-0003",
+          "product_name": "Google Pixel 8 Pro",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-08",
+      "status": "out_for_delivery",
+      "expected_delivery": "2025-01-11"
+    },
+    {
+      "order_id": "ORD-5007",
+      "customer": {
+        "customer_id": "CUST-1007",
+        "customer_name": "Amali Ranasinghe"
+      },
+      "products": [
+        {
+          "product_id": "P-HO-0002",
+          "product_name": "Philips Air Fryer XXL",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-08",
+      "status": "processing",
+      "expected_delivery": "2025-01-16"
+    },
+    {
+      "order_id": "ORD-5008",
+      "customer": {
+        "customer_id": "CUST-1008",
+        "customer_name": "Supun Madushanka"
+      },
+      "products": [
+        {
+          "product_id": "P-SM-0004",
+          "product_name": "Xiaomi Redmi Note 13 Pro",
+          "quantity": 1
+        },
+        {
+          "product_id": "P-AC-0041",
+          "product_name": "Xiaomi 67W Turbo Charger",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-09",
+      "status": "shipped",
+      "expected_delivery": "2025-01-14"
+    },
+    {
+      "order_id": "ORD-5009",
+      "customer": {
+        "customer_id": "CUST-1009",
+        "customer_name": "Rashmi Sanduni"
+      },
+      "products": [
+        {
+          "product_id": "P-SM-0005",
+          "product_name": "OnePlus 12",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-10",
+      "status": "cancelled",
+      "expected_delivery": "2025-01-18"
+    },
+    {
+      "order_id": "ORD-5010",
+      "customer": {
+        "customer_id": "CUST-1010",
+        "customer_name": "Thilini Udayanga"
+      },
+      "products": [
+        {
+          "product_id": "P-HO-0003",
+          "product_name": "Sony WH-1000XM5 Headphones",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-10",
+      "status": "delivered",
+      "expected_delivery": "2025-01-13"
+    },
+
+    {
+      "order_id": "ORD-5011",
+      "customer": {
+        "customer_id": "CUST-1001",
+        "customer_name": "Dulitha Harasara"
+      },
+      "products": [
+        {
+          "product_id": "P-AC-0044",
+          "product_name": "Anker PowerCore 20000mAh",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-11",
+      "status": "processing",
+      "expected_delivery": "2025-01-18"
+    },
+    {
+      "order_id": "ORD-5012",
+      "customer": {
+        "customer_id": "CUST-1002",
+        "customer_name": "Kasun Perera"
+      },
+      "products": [
+        {
+          "product_id": "P-LT-0005",
+          "product_name": "HP Pavilion 15",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-12",
+      "status": "pending",
+      "expected_delivery": "2025-01-19"
+    },
+    {
+      "order_id": "ORD-5013",
+      "customer": {
+        "customer_id": "CUST-1003",
+        "customer_name": "Nimal Silva"
+      },
+      "products": [
+        {
+          "product_id": "P-SM-0006",
+          "product_name": "Oppo Reno 11 Pro",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-12",
+      "status": "delivered",
+      "expected_delivery": "2025-01-17"
+    },
+    {
+      "order_id": "ORD-5014",
+      "customer": {
+        "customer_id": "CUST-1004",
+        "customer_name": "Ishara Fernando"
+      },
+      "products": [
+        {
+          "product_id": "P-HO-0004",
+          "product_name": "Sony Bluetooth Soundbar",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-13",
+      "status": "shipped",
+      "expected_delivery": "2025-01-20"
+    },
+    {
+      "order_id": "ORD-5015",
+      "customer": {
+        "customer_id": "CUST-1005",
+        "customer_name": "Sajith Kumara"
+      },
+      "products": [
+        {
+          "product_id": "P-AC-0033",
+          "product_name": "Apple AirPods Pro (2nd Gen)",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-13",
+      "status": "delivered",
+      "expected_delivery": "2025-01-17"
+    },
+    {
+      "order_id": "ORD-5016",
+      "customer": {
+        "customer_id": "CUST-1006",
+        "customer_name": "Thisara Jayawardena"
+      },
+      "products": [
+        {
+          "product_id": "P-SM-0007",
+          "product_name": "Samsung Galaxy A55",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-14",
+      "status": "pending",
+      "expected_delivery": "2025-01-22"
+    },
+    {
+      "order_id": "ORD-5017",
+      "customer": {
+        "customer_id": "CUST-1007",
+        "customer_name": "Amali Ranasinghe"
+      },
+      "products": [
+        {
+          "product_id": "P-HO-0005",
+          "product_name": "Prestige Blender Pro",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-15",
+      "status": "processing",
+      "expected_delivery": "2025-01-25"
+    },
+    {
+      "order_id": "ORD-5018",
+      "customer": {
+        "customer_id": "CUST-1008",
+        "customer_name": "Supun Madushanka"
+      },
+      "products": [
+        {
+          "product_id": "P-LT-0006",
+          "product_name": "Lenovo Legion 5 Gaming Laptop",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-16",
+      "status": "out_for_delivery",
+      "expected_delivery": "2025-01-20"
+    },
+    {
+      "order_id": "ORD-5019",
+      "customer": {
+        "customer_id": "CUST-1009",
+        "customer_name": "Rashmi Sanduni"
+      },
+      "products": [
+        {
+          "product_id": "P-SM-0009",
+          "product_name": "Vivo V30 Pro",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-17",
+      "status": "delivered",
+      "expected_delivery": "2025-01-21"
+    },
+    {
+      "order_id": "ORD-5020",
+      "customer": {
+        "customer_id": "CUST-1010",
+        "customer_name": "Thilini Udayanga"
+      },
+      "products": [
+        {
+          "product_id": "P-SM-0010",
+          "product_name": "Honor Magic 6 Pro",
+          "quantity": 1
+        }
+      ],
+      "order_date": "2025-01-18",
+      "status": "shipped",
+      "expected_delivery": "2025-01-25"
+    }
+  ]
+}

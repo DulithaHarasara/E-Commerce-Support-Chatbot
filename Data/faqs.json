@@ -1,0 +1,254 @@
+{
+  "faqs": [
+    {
+      "id": "faq_001",
+      "question": "How can I check the status of my order?",
+      "answer": "You can check the status by entering your order ID in the order tracking section or asking the chatbot."
+    },
+    {
+      "id": "faq_002",
+      "question": "What payment methods do you accept?",
+      "answer": "We accept credit cards, debit cards, bank transfers, and mobile payments."
+    },
+    {
+      "id": "faq_003",
+      "question": "Do you offer cash on delivery?",
+      "answer": "Yes, cash on delivery is available for selected locations."
+    },
+    {
+      "id": "faq_004",
+      "question": "What is your return policy?",
+      "answer": "Products can be returned within 14 days if they are unused and in original packaging."
+    },
+    {
+      "id": "faq_005",
+      "question": "How long does delivery take?",
+      "answer": "Delivery usually takes 3–7 business days depending on your location."
+    },
+    {
+      "id": "faq_006",
+      "question": "Do you provide international shipping?",
+      "answer": "Currently, we only ship within Sri Lanka."
+    },
+    {
+      "id": "faq_007",
+      "question": "How can I cancel my order?",
+      "answer": "Orders can be canceled before they are shipped. Contact support or use the chatbot to request cancellation."
+    },
+    {
+      "id": "faq_008",
+      "question": "Can I modify my order after placing it?",
+      "answer": "Modifications are possible only before the order is processed."
+    },
+    {
+      "id": "faq_009",
+      "question": "How do I request a refund?",
+      "answer": "Refund requests can be submitted via the returns page or by contacting customer support."
+    },
+    {
+      "id": "faq_010",
+      "question": "What should I do if I receive a damaged product?",
+      "answer": "Please provide photos of the damaged item and packaging, and request a replacement or refund."
+    },
+    {
+      "id": "faq_011",
+      "question": "Do you sell authentic products?",
+      "answer": "Yes, all products sold on our platform are 100% genuine and sourced from authorized distributors."
+    },
+    {
+      "id": "faq_012",
+      "question": "Can I return electronic items?",
+      "answer": "Electronics can be returned only if sealed and unused."
+    },
+    {
+      "id": "faq_013",
+      "question": "Do you offer warranty on products?",
+      "answer": "Most electronics come with a manufacturer warranty. Warranty details vary by brand."
+    },
+    {
+      "id": "faq_014",
+      "question": "How do I track my delivery?",
+      "answer": "A tracking link will be sent to your email and SMS once your order is shipped."
+    },
+    {
+      "id": "faq_015",
+      "question": "Can I buy items in bulk?",
+      "answer": "Yes, bulk orders are accepted. Contact our B2B sales team for discounts."
+    },
+    {
+      "id": "faq_016",
+      "question": "Do you have a loyalty program?",
+      "answer": "Yes, customers earn reward points on every purchase, redeemable on future orders."
+    },
+    {
+      "id": "faq_017",
+      "question": "How can I contact customer support?",
+      "answer": "You can contact us through email, hotline, or the chatbot for immediate assistance."
+    },
+    {
+      "id": "faq_018",
+      "question": "What if I entered the wrong shipping address?",
+      "answer": "Please update the address immediately through customer support before shipping."
+    },
+    {
+      "id": "faq_019",
+      "question": "Do you offer gift wrapping?",
+      "answer": "Yes, gift wrapping is available at checkout for a small fee."
+    },
+    {
+      "id": "faq_020",
+      "question": "Can I exchange a product?",
+      "answer": "Exchanges are allowed within 14 days for unused items with original packaging."
+    },
+    {
+      "id": "faq_021",
+      "question": "Are there installation services for appliances?",
+      "answer": "Yes, installation can be arranged for large appliances such as washing machines or TVs."
+    },
+    {
+      "id": "faq_022",
+      "question": "Do you provide EMI options?",
+      "answer": "Yes, EMI is available for selected banks and credit cards."
+    },
+    {
+      "id": "faq_023",
+      "question": "What are your delivery charges?",
+      "answer": "Delivery is free for orders above USD 100. Standard fees apply for smaller orders."
+    },
+    {
+      "id": "faq_024",
+      "question": "Can I track my return request?",
+      "answer": "Yes, you will receive email updates regarding your return status."
+    },
+    {
+      "id": "faq_025",
+      "question": "Do you restock out-of-stock products?",
+      "answer": "Yes, restocked items will be updated on the product page with a notification option."
+    },
+    {
+      "id": "faq_026",
+      "question": "How do I apply a discount code?",
+      "answer": "You can apply the code at checkout in the 'Coupon Code' section."
+    },
+    {
+      "id": "faq_027",
+      "question": "Why was my order cancelled automatically?",
+      "answer": "Orders may cancel automatically due to payment failure or verification issues."
+    },
+    {
+      "id": "faq_028",
+      "question": "Can I see my previous orders?",
+      "answer": "Yes, all past orders are available in your account dashboard."
+    },
+    {
+      "id": "faq_029",
+      "question": "What happens if I miss my delivery?",
+      "answer": "The courier will attempt delivery again or contact you to reschedule."
+    },
+    {
+      "id": "faq_030",
+      "question": "Can I request faster delivery?",
+      "answer": "Express delivery is available for selected items for an additional fee."
+    },
+    {
+      "id": "faq_031",
+      "question": "Why is my order delayed?",
+      "answer": "Delays can occur due to high demand, weather conditions, or courier issues."
+    },
+    {
+      "id": "faq_032",
+      "question": "Do you offer student discounts?",
+      "answer": "Yes, students can get special discounts by verifying their student ID."
+    },
+    {
+      "id": "faq_033",
+      "question": "Can I subscribe to product updates?",
+      "answer": "Yes, you can click 'Notify Me' on any product page."
+    },
+    {
+      "id": "faq_034",
+      "question": "How do I change my password?",
+      "answer": "Go to account settings and click 'Change Password'."
+    },
+    {
+      "id": "faq_035",
+      "question": "Do you store my payment information?",
+      "answer": "We store payment info securely as per industry standards, or you may choose not to save it."
+    },
+    {
+      "id": "faq_036",
+      "question": "Is shopping on your site secure?",
+      "answer": "Yes, our website uses advanced SSL encryption for secure transactions."
+    },
+    {
+      "id": "faq_037",
+      "question": "Can I request a digital invoice?",
+      "answer": "Yes, a digital invoice is automatically emailed after purchase."
+    },
+    {
+      "id": "faq_038",
+      "question": "Do you have physical stores?",
+      "answer": "We currently operate online only."
+    },
+    {
+      "id": "faq_039",
+      "question": "Do you price match competitors?",
+      "answer": "Yes, we offer price matching for selected categories."
+    },
+    {
+      "id": "faq_040",
+      "question": "Can I reserve an item and pay later?",
+      "answer": "Reservation is not available. Items are sold on a first-come basis."
+    },
+    {
+      "id": "faq_041",
+      "question": "Do you offer subscription products?",
+      "answer": "Yes, items like supplements and cosmetics offer auto-renew subscriptions."
+    },
+    {
+      "id": "faq_042",
+      "question": "Can the courier contact me before delivery?",
+      "answer": "Yes, most couriers will call or text before delivery."
+    },
+    {
+      "id": "faq_043",
+      "question": "What if the price drops after I buy something?",
+      "answer": "Price adjustments may be available within 7 days of purchase."
+    },
+    {
+      "id": "faq_044",
+      "question": "Do you ship fragile items safely?",
+      "answer": "Yes, fragile products are shipped with extra protective packaging."
+    },
+    {
+      "id": "faq_045",
+      "question": "Can I buy gift cards?",
+      "answer": "Yes, digital gift cards are available in multiple denominations."
+    },
+    {
+      "id": "faq_046",
+      "question": "How do I unsubscribe from marketing emails?",
+      "answer": "Click the 'Unsubscribe' link at the bottom of any promotional email."
+    },
+    {
+      "id": "faq_047",
+      "question": "Why is my coupon code not working?",
+      "answer": "The code may be expired, invalid, or not applicable to selected items."
+    },
+    {
+      "id": "faq_048",
+      "question": "Do you offer wholesale pricing?",
+      "answer": "Yes, wholesale pricing is available for bulk orders upon request."
+    },
+    {
+      "id": "faq_049",
+      "question": "What currencies do you support?",
+      "answer": "Payments are accepted in USD and LKR depending on your selected region."
+    },
+    {
+      "id": "faq_050",
+      "question": "Can I get assistance through live chat?",
+      "answer": "Yes, our live chat support is available from 9 AM to 11 PM daily."
+    }
+  ]
+}
